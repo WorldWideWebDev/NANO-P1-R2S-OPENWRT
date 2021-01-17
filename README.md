@@ -74,6 +74,8 @@ https://openwrt.org/toh/friendlyarm/friendlyarm_nanopi_r2s
 
 Image Files:
 http://downloads.openwrt.org/snapshots/targets/rockchip/armv8/openwrt-rockchip-armv8-friendlyarm_nanopi-r2s-ext4-sysupgrade.img.gz
+
+Upgrade File:
 http://downloads.openwrt.org/snapshots/targets/rockchip/armv8/openwrt-rockchip-armv8-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz
 
 Flashing Utility:
